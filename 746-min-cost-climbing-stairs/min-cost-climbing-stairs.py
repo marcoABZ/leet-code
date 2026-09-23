@@ -4,9 +4,7 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        costs = cost[:]
-
         for i in range(2, len(cost)):
-            costs[i] = min(costs[i-2], costs[i-1]) + costs[i]
+            cost[i] = min(cost[i-2], cost[i-1]) + cost[i]
         
-        return min(costs[-1], costs[-2])
+        return min(cost[-1], cost[-2])
