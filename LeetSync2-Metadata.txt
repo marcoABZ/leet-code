@@ -1,3 +1,4 @@
 1071-greatest-common-divisor-of-strings|Easy|1790132400000
 1431-kids-with-the-greatest-number-of-candies|Easy|1790132400000
 605-can-place-flowers|Easy|1790132400000
+345-reverse-vowels-of-a-string|Easy|1790132400000
