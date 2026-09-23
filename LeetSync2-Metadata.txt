@@ -9,3 +9,4 @@
 724-find-pivot-index|Easy|1790132400000
 2215-find-the-difference-of-two-arrays|Easy|1790132400000
 1207-unique-number-of-occurrences|Easy|1790132400000
+933-number-of-recent-calls|Easy|1790132400000
