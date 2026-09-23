@@ -20,3 +20,4 @@
 338-counting-bits|Easy|1790132400000
 151-reverse-words-in-a-string|Medium|1790132400000
 238-product-of-array-except-self|Medium|1790132400000
+334-increasing-triplet-subsequence|Medium|1790132400000
