@@ -11,3 +11,4 @@
 1207-unique-number-of-occurrences|Easy|1790132400000
 933-number-of-recent-calls|Easy|1790132400000
 206-reverse-linked-list|Easy|1790132400000
+104-maximum-depth-of-binary-tree|Easy|1790132400000
