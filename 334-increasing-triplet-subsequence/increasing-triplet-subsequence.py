@@ -19,8 +19,7 @@ class Solution(object):
                     j += 1
             else:
                 if nums[k] < nums[j] and nums[k] < nums[i]:
-                    if self.increasingTriplet(nums[k:]):
-                        return True
+                    i = k
                     k += 1
                 elif nums[k] < nums[j] and nums[k] > nums[i]:
                     j = k
