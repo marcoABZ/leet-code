@@ -15,3 +15,4 @@
 872-leaf-similar-trees|Easy|1790132400000
 700-search-in-a-binary-search-tree|Easy|1790132400000
 374-guess-number-higher-or-lower|Easy|1790132400000
+1137-n-th-tribonacci-number|Easy|1790132400000
