@@ -12,3 +12,4 @@
 933-number-of-recent-calls|Easy|1790132400000
 206-reverse-linked-list|Easy|1790132400000
 104-maximum-depth-of-binary-tree|Easy|1790132400000
+872-leaf-similar-trees|Easy|1790132400000
