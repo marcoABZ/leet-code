@@ -17,3 +17,4 @@
 374-guess-number-higher-or-lower|Easy|1790132400000
 1137-n-th-tribonacci-number|Easy|1790132400000
 746-min-cost-climbing-stairs|Easy|1790132400000
+338-counting-bits|Easy|1790132400000
