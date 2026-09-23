@@ -4,12 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        right = [1]
-        curr = 1
-        for n in nums[:len(nums)-1]:
-            curr *= n
-            right.append(curr)
-
         left = [1]
         curr = 1
         for i in range(len(nums) - 1):
@@ -17,8 +11,10 @@ class Solution(object):
             left.insert(0, curr)
         
         result = []
+        curr = 1
         for i in range(len(nums)):
-            result.append(right[i] * left[i])
+            result.append(curr * left[i])
+            curr *= nums[i]
         
         return result
         
