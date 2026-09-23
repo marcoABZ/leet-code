@@ -4,16 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        left = [1]
+        result = [1]
         curr = 1
         for i in range(len(nums) - 1):
             curr *= nums[-i-1]
-            left.insert(0, curr)
+            result.insert(0, curr)
         
-        result = []
         curr = 1
         for i in range(len(nums)):
-            result.append(curr * left[i])
+            result[i] *= curr
             curr *= nums[i]
         
         return result
