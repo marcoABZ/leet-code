@@ -6,3 +6,4 @@
 392-is-subsequence|Easy|1790132400000
 643-maximum-average-subarray-i|Easy|1790132400000
 1732-find-the-highest-altitude|Easy|1790132400000
+724-find-pivot-index|Easy|1790132400000
