@@ -4,24 +4,24 @@ class Solution(object):
         :type senate: str
         :rtype: str
         """
-        queue = [c for c in senate]
-        r, d = 0, 0
-        
-        while 'D' in queue and 'R' in queue:
-            curr = queue[0]
-            queue = queue[1:]
-            if curr == 'R':
-                if r < 0:
-                    r += 1
-                else:
-                    d -= 1
-                    queue.append(curr)
+        r = []
+        d = []
+        k = len(senate)
+
+        for i, s in enumerate(senate):
+            if s == 'R':
+                r.append(i)
             else:
-                if d < 0:
-                    d += 1
-                else:
-                    r -= 1
-                    queue.append(curr)
+                d.append(i)
+        
+        while r and d:
+            if r[0] < d[0]:
+                r.append(k)
+            else:
+                d.append(k)
+            
+            r = r[1:]
+            d = d[1:]
+            k += 1
 
-
-        return 'Radiant' if queue[0] == 'R' else 'Dire'
+        return 'Radiant' if r else 'Dire'
