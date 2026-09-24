@@ -30,3 +30,4 @@
 1657-determine-if-two-strings-are-close|Medium|1790218800000
 735-asteroid-collision|Medium|1790218800000
 394-decode-string|Medium|1790218800000
+649-dota2-senate|Medium|1790218800000
