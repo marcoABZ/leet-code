@@ -34,3 +34,4 @@
 2095-delete-the-middle-node-of-a-linked-list|Medium|1790218800000
 328-odd-even-linked-list|Medium|1790218800000
 2130-maximum-twin-sum-of-a-linked-list|Medium|1790218800000
+1448-count-good-nodes-in-binary-tree|Medium|1790218800000
