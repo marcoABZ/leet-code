@@ -24,3 +24,4 @@
 443-string-compression|Medium|1790132400000
 11-container-with-most-water|Medium|1790218800000
 1679-max-number-of-k-sum-pairs|Medium|1790218800000
+1456-maximum-number-of-vowels-in-a-substring-of-given-length|Medium|1790218800000
