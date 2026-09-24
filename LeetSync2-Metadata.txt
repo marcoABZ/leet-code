@@ -26,3 +26,4 @@
 1679-max-number-of-k-sum-pairs|Medium|1790218800000
 1456-maximum-number-of-vowels-in-a-substring-of-given-length|Medium|1790218800000
 1004-max-consecutive-ones-iii|Medium|1790218800000
+1493-longest-subarray-of-1s-after-deleting-one-element|Medium|1790218800000
