@@ -36,3 +36,4 @@
 2130-maximum-twin-sum-of-a-linked-list|Medium|1790218800000
 1448-count-good-nodes-in-binary-tree|Medium|1790218800000
 437-path-sum-iii|Medium|1790305200000
+1372-longest-zigzag-path-in-a-binary-tree|Medium|1790305200000
