@@ -46,3 +46,4 @@
 2300-successful-pairs-of-spells-and-potions|Medium|1790305200000
 162-find-peak-element|Medium|1790305200000
 875-koko-eating-bananas|Medium|1790305200000
+198-house-robber|Medium|1790305200000
