@@ -7,8 +7,7 @@ class Solution(object):
         :type h: int
         :rtype: int
         """
-        piles = sorted(piles)
-        i, j = 1, piles[-1]
+        i, j = 1, max(piles)
 
         while i < j:
             rate = i + (j - i) // 2
