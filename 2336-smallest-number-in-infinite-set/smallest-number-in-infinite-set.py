@@ -3,26 +3,31 @@ import heapq
 class SmallestInfiniteSet(object):
 
     def __init__(self):
-        self.not_in = set()
+        self.current = 1
+        self.not_in_s = set()
+        self.not_in = []
 
     def popSmallest(self):
         """
         :rtype: int
         """
-        for i in range(1,1001):
-            if i not in self.not_in:
-                self.not_in.add(i)
-                return i
+        if self.not_in:
+            val = heapq.heappop(self.not_in)
+            self.not_in_s.add(val)
+            return val
 
-        return None
+        self.current += 1
+        self.not_in_s.add(self.current - 1)
+        return self.current - 1
 
     def addBack(self, num):
         """
         :type num: int
         :rtype: None
         """
-        if num in self.not_in:
-            self.not_in.remove(num)
+        if num in self.not_in_s:
+            self.not_in_s.remove(num)
+            heapq.heappush(self.not_in, num)
 
 
 # Your SmallestInfiniteSet object will be instantiated and called as such:
