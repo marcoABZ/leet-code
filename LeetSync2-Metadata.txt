@@ -41,3 +41,4 @@
 1161-maximum-level-sum-of-a-binary-tree|Medium|1790305200000
 841-keys-and-rooms|Medium|1790305200000
 215-kth-largest-element-in-an-array|Medium|1790305200000
+2336-smallest-number-in-infinite-set|Medium|1790305200000
