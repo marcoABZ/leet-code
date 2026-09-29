@@ -52,3 +52,4 @@
 452-minimum-number-of-arrows-to-burst-balloons|Medium|1790564400000
 547-number-of-provinces|Medium|1790564400000
 1129-shortest-path-with-alternating-colors|Medium|1790650800000
+1376-time-needed-to-inform-all-employees|Medium|1790650800000
