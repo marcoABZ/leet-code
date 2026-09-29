@@ -51,3 +51,4 @@
 739-daily-temperatures|Medium|1790305200000
 452-minimum-number-of-arrows-to-burst-balloons|Medium|1790564400000
 547-number-of-provinces|Medium|1790564400000
+1129-shortest-path-with-alternating-colors|Medium|1790650800000
