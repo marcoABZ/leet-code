@@ -55,3 +55,4 @@
 1376-time-needed-to-inform-all-employees|Medium|1790650800000
 797-all-paths-from-source-to-target|Medium|1790650800000
 1926-nearest-exit-from-entrance-in-maze|Medium|1790737200000
+1615-maximal-network-rank|Medium|1790737200000
