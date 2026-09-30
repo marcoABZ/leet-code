@@ -60,3 +60,4 @@
 1557-minimum-number-of-vertices-to-reach-all-nodes|Medium|1790737200000
 433-minimum-genetic-mutation|Medium|1790737200000
 1306-jump-game-iii|Medium|1790737200000
+1091-shortest-path-in-binary-matrix|Medium|1790737200000
