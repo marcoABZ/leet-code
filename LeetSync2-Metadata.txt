@@ -61,3 +61,4 @@
 433-minimum-genetic-mutation|Medium|1790737200000
 1306-jump-game-iii|Medium|1790737200000
 1091-shortest-path-in-binary-matrix|Medium|1790737200000
+1020-number-of-enclaves|Medium|1790737200000
