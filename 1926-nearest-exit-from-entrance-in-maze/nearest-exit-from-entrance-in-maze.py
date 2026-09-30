@@ -13,7 +13,7 @@ class Solution(object):
             return pos[0] == entrance[0] and pos[1] == entrance[1]
         
         def hash(pos):
-            return str(pos[0]) + "/" + str(pos[1])
+            return (pos[0], pos[1])
         
         def isValid(pos, maze):
             m, n = len(maze), len(maze[0])
