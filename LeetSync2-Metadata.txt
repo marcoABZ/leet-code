@@ -57,3 +57,4 @@
 1926-nearest-exit-from-entrance-in-maze|Medium|1790737200000
 1615-maximal-network-rank|Medium|1790737200000
 997-find-the-town-judge|Easy|1790737200000
+1557-minimum-number-of-vertices-to-reach-all-nodes|Medium|1790737200000
