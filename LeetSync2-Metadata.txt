@@ -63,3 +63,4 @@
 1091-shortest-path-in-binary-matrix|Medium|1790737200000
 1020-number-of-enclaves|Medium|1790737200000
 1254-number-of-closed-islands|Medium|1790737200000
+20-valid-parentheses|Easy|1790737200000
