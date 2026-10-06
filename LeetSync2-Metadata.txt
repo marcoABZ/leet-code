@@ -64,3 +64,4 @@
 1020-number-of-enclaves|Medium|1790737200000
 1254-number-of-closed-islands|Medium|1790737200000
 20-valid-parentheses|Easy|1790737200000
+436-find-right-interval|Medium|1791255600000
