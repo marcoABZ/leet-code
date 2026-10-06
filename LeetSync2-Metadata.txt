@@ -72,3 +72,4 @@
 1805-number-of-different-integers-in-a-string|Easy|1791255600000
 1704-determine-if-string-halves-are-alike|Easy|1791255600000
 2133-check-if-every-row-and-column-contains-all-numbers|Easy|1791255600000
+1460-make-two-arrays-equal-by-reversing-subarrays|Easy|1791255600000
