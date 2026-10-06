@@ -67,3 +67,4 @@
 436-find-right-interval|Medium|1791255600000
 981-time-based-key-value-store|Medium|1791255600000
 14-longest-common-prefix|Easy|1791255600000
+2511-maximum-enemy-forts-that-can-be-captured|Easy|1791255600000
