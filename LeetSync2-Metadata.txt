@@ -69,3 +69,4 @@
 14-longest-common-prefix|Easy|1791255600000
 2511-maximum-enemy-forts-that-can-be-captured|Easy|1791255600000
 599-minimum-index-sum-of-two-lists|Easy|1791255600000
+1805-number-of-different-integers-in-a-string|Easy|1791255600000
