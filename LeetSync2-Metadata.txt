@@ -74,3 +74,4 @@
 2133-check-if-every-row-and-column-contains-all-numbers|Easy|1791255600000
 1460-make-two-arrays-equal-by-reversing-subarrays|Easy|1791255600000
 3174-clear-digits|Easy|1791342000000
+3392-count-subarrays-of-length-three-with-a-condition|Easy|1791342000000
