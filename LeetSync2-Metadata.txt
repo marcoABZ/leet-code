@@ -73,3 +73,4 @@
 1704-determine-if-string-halves-are-alike|Easy|1791255600000
 2133-check-if-every-row-and-column-contains-all-numbers|Easy|1791255600000
 1460-make-two-arrays-equal-by-reversing-subarrays|Easy|1791255600000
+3174-clear-digits|Easy|1791342000000
