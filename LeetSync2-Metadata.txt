@@ -76,3 +76,4 @@
 3174-clear-digits|Easy|1791342000000
 3392-count-subarrays-of-length-three-with-a-condition|Easy|1791342000000
 1812-determine-color-of-a-chessboard-square|Easy|1791342000000
+2591-distribute-money-to-maximum-children|Easy|1791342000000
