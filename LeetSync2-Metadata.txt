@@ -86,3 +86,4 @@
 3042-count-prefix-and-suffix-pairs-i|Easy|1791342000000
 1967-number-of-strings-that-appear-as-substrings-in-word|Easy|1791342000000
 1588-sum-of-all-odd-length-subarrays|Easy|1791342000000
+2833-furthest-point-from-origin|Easy|1791342000000
