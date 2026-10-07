@@ -84,3 +84,4 @@
 3692-majority-frequency-characters|Easy|1791342000000
 1342-number-of-steps-to-reduce-a-number-to-zero|Easy|1791342000000
 3042-count-prefix-and-suffix-pairs-i|Easy|1791342000000
+1967-number-of-strings-that-appear-as-substrings-in-word|Easy|1791342000000
