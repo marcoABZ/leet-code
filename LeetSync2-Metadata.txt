@@ -88,3 +88,4 @@
 1588-sum-of-all-odd-length-subarrays|Easy|1791342000000
 2833-furthest-point-from-origin|Easy|1791342000000
 3798-largest-even-number|Easy|1791342000000
+2908-minimum-sum-of-mountain-triplets-i|Easy|1791342000000
