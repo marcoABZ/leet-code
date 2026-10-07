@@ -79,3 +79,4 @@
 2591-distribute-money-to-maximum-children|Easy|1791342000000
 1512-number-of-good-pairs|Easy|1791342000000
 2331-evaluate-boolean-binary-tree|Easy|1791342000000
+3417-zigzag-grid-traversal-with-skip|Easy|1791342000000
