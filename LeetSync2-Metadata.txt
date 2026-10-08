@@ -111,3 +111,4 @@
 225-implement-stack-using-queues|Easy|1791428400000
 228-summary-ranges|Easy|1791428400000
 234-palindrome-linked-list|Easy|1791428400000
+257-binary-tree-paths|Easy|1791428400000
