@@ -113,3 +113,4 @@
 234-palindrome-linked-list|Easy|1791428400000
 257-binary-tree-paths|Easy|1791428400000
 258-add-digits|Easy|1791428400000
+263-ugly-number|Easy|1791428400000
