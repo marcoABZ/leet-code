@@ -21,5 +21,4 @@ class Solution(object):
                 continue
             stack_b.append(c)
         
-        print(stack_a, stack_b)
         return "".join(stack_a) == "".join(stack_b)
