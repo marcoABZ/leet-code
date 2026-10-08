@@ -131,3 +131,4 @@
 500-keyboard-row|Easy|1791428400000
 501-find-mode-in-binary-search-tree|Easy|1791428400000
 504-base-7|Easy|1791428400000
+136-single-number|Easy|1791428400000
