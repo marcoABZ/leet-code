@@ -126,3 +126,4 @@
 461-hamming-distance|Easy|1791428400000
 463-island-perimeter|Easy|1791428400000
 476-number-complement|Easy|1791428400000
+482-license-key-formatting|Easy|1791428400000
