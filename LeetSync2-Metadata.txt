@@ -105,3 +105,4 @@
 110-balanced-binary-tree|Easy|1791428400000
 111-minimum-depth-of-binary-tree|Easy|1791428400000
 125-valid-palindrome|Easy|1791428400000
+141-linked-list-cycle|Easy|1791428400000
