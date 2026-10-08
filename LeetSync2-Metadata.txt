@@ -114,3 +114,4 @@
 257-binary-tree-paths|Easy|1791428400000
 258-add-digits|Easy|1791428400000
 263-ugly-number|Easy|1791428400000
+290-word-pattern|Easy|1791428400000
