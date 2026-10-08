@@ -97,3 +97,4 @@
 26-remove-duplicates-from-sorted-array|Easy|1791428400000
 27-remove-element|Easy|1791428400000
 58-length-of-last-word|Easy|1791428400000
+66-plus-one|Easy|1791428400000
