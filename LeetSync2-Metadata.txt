@@ -103,3 +103,4 @@
 101-symmetric-tree|Easy|1791428400000
 108-convert-sorted-array-to-binary-search-tree|Easy|1791428400000
 110-balanced-binary-tree|Easy|1791428400000
+111-minimum-depth-of-binary-tree|Easy|1791428400000
