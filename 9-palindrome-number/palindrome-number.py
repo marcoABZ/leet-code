@@ -6,14 +6,13 @@ class Solution(object):
         """
         if x < 0:
             return False
-        
-        i, j = 0, len(str(x)) - 1
-        s = str(x)
 
-        while i < j:
-            if s[i] != s[j]:
-                return False
-            i += 1
-            j -= 1
+        i = 0
+        j = x
+
+        while j:
+            i *= 10
+            i += j % 10
+            j //= 10
         
-        return True
+        return i == x
