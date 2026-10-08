@@ -96,3 +96,4 @@
 13-roman-to-integer|Easy|1791428400000
 26-remove-duplicates-from-sorted-array|Easy|1791428400000
 27-remove-element|Easy|1791428400000
+58-length-of-last-word|Easy|1791428400000
