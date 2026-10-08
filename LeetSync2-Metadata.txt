@@ -101,3 +101,4 @@
 67-add-binary|Easy|1791428400000
 100-same-tree|Easy|1791428400000
 101-symmetric-tree|Easy|1791428400000
+108-convert-sorted-array-to-binary-search-tree|Easy|1791428400000
