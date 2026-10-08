@@ -118,3 +118,4 @@
 292-nim-game|Easy|1791428400000
 342-power-of-four|Easy|1791428400000
 349-intersection-of-two-arrays|Easy|1791428400000
+387-first-unique-character-in-a-string|Easy|1791428400000
