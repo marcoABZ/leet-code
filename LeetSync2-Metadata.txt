@@ -106,3 +106,4 @@
 111-minimum-depth-of-binary-tree|Easy|1791428400000
 125-valid-palindrome|Easy|1791428400000
 141-linked-list-cycle|Easy|1791428400000
+160-intersection-of-two-linked-lists|Easy|1791428400000
