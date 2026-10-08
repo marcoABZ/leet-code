@@ -120,3 +120,4 @@
 349-intersection-of-two-arrays|Easy|1791428400000
 387-first-unique-character-in-a-string|Easy|1791428400000
 405-convert-a-number-to-hexadecimal|Easy|1791428400000
+414-third-maximum-number|Easy|1791428400000
