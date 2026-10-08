@@ -98,3 +98,4 @@
 27-remove-element|Easy|1791428400000
 58-length-of-last-word|Easy|1791428400000
 66-plus-one|Easy|1791428400000
+67-add-binary|Easy|1791428400000
