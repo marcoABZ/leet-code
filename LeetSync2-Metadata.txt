@@ -109,3 +109,4 @@
 160-intersection-of-two-linked-lists|Easy|1791428400000
 219-contains-duplicate-ii|Easy|1791428400000
 225-implement-stack-using-queues|Easy|1791428400000
+228-summary-ranges|Easy|1791428400000
