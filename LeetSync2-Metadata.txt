@@ -112,3 +112,4 @@
 228-summary-ranges|Easy|1791428400000
 234-palindrome-linked-list|Easy|1791428400000
 257-binary-tree-paths|Easy|1791428400000
+258-add-digits|Easy|1791428400000
