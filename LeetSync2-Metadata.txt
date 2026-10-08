@@ -116,3 +116,4 @@
 263-ugly-number|Easy|1791428400000
 290-word-pattern|Easy|1791428400000
 292-nim-game|Easy|1791428400000
+342-power-of-four|Easy|1791428400000
