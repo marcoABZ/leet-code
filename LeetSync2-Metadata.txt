@@ -143,3 +143,4 @@
 1541-minimum-insertions-to-balance-a-parentheses-string|Medium|1791514800000
 506-relative-ranks|Easy|1791514800000
 520-detect-capital|Easy|1791514800000
+521-longest-uncommon-subsequence-i|Easy|1791514800000
