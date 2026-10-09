@@ -141,3 +141,4 @@
 202-happy-number|Easy|1791428400000
 53-maximum-subarray|Medium|1791428400000
 1541-minimum-insertions-to-balance-a-parentheses-string|Medium|1791514800000
+506-relative-ranks|Easy|1791514800000
