@@ -164,3 +164,4 @@
 682-baseball-game|Easy|1791514800000
 693-binary-number-with-alternating-bits|Easy|1791514800000
 696-count-binary-substrings|Easy|1791514800000
+697-degree-of-an-array|Easy|1791514800000
