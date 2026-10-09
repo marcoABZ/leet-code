@@ -149,3 +149,4 @@
 543-diameter-of-binary-tree|Easy|1791514800000
 551-student-attendance-record-i|Easy|1791514800000
 559-maximum-depth-of-n-ary-tree|Easy|1791514800000
+563-binary-tree-tilt|Easy|1791514800000
