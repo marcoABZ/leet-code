@@ -146,3 +146,4 @@
 521-longest-uncommon-subsequence-i|Easy|1791514800000
 530-minimum-absolute-difference-in-bst|Easy|1791514800000
 541-reverse-string-ii|Easy|1791514800000
+543-diameter-of-binary-tree|Easy|1791514800000
