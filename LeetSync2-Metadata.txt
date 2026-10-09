@@ -169,3 +169,4 @@
 728-self-dividing-numbers|Easy|1791514800000
 747-largest-number-at-least-twice-of-others|Easy|1791514800000
 999-available-captures-for-rook|Easy|1791514800000
+961-n-repeated-element-in-size-2n-array|Easy|1791514800000
