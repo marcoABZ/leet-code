@@ -158,3 +158,4 @@
 637-average-of-levels-in-binary-tree|Easy|1791514800000
 657-robot-return-to-origin|Easy|1791514800000
 661-image-smoother|Easy|1791514800000
+671-second-minimum-node-in-a-binary-tree|Easy|1791514800000
