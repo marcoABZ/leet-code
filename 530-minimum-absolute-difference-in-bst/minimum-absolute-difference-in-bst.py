@@ -10,23 +10,17 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        queue = [root]
-        values = []
+        order = []
 
-        while queue:
-            curr = queue[0]
-            queue = queue[1:]
-            if not curr:
-                continue
+        def inorder(root):
+            if not root:
+                return []
             
-            values.append(curr.val)
-            queue.append(curr.right)
-            queue.append(curr.left)
-        
-        sorted_values = sorted(values)
+            return inorder(root.left) + [root.val] + inorder(root.right)
+   
+        order = inorder(root)
         result = 10**5
-
-        for i in range(1, len(sorted_values)):
-            result = min(result, sorted_values[i] - sorted_values[i-1])
+        for i in range(1, len(order)):
+            result = min(result, order[i] - order[i-1])
         
         return result
