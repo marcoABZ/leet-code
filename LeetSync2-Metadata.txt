@@ -153,3 +153,4 @@
 572-subtree-of-another-tree|Easy|1791514800000
 575-distribute-candies|Easy|1791514800000
 590-n-ary-tree-postorder-traversal|Easy|1791514800000
+594-longest-harmonious-subsequence|Easy|1791514800000
