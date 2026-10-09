@@ -167,3 +167,4 @@
 697-degree-of-an-array|Easy|1791514800000
 703-kth-largest-element-in-a-stream|Easy|1791514800000
 728-self-dividing-numbers|Easy|1791514800000
+747-largest-number-at-least-twice-of-others|Easy|1791514800000
