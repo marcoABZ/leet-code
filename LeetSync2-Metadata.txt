@@ -199,3 +199,4 @@
 3945-digit-frequency-score|Easy|1791601200000
 3940-limit-occurrences-in-sorted-array|Easy|1791601200000
 3936-minimum-swaps-to-move-zeros-to-end|Easy|1791601200000
+3931-check-adjacent-digit-differences|Easy|1791601200000
