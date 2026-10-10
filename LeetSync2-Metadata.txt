@@ -206,3 +206,4 @@
 3912-valid-elements-in-an-array|Easy|1791601200000
 3908-valid-digit-number|Easy|1791601200000
 3903-smallest-stable-index-i|Easy|1791601200000
+3898-find-the-degree-of-each-vertex|Easy|1791601200000
