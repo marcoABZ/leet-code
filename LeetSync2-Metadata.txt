@@ -179,3 +179,4 @@
 922-sort-array-by-parity-ii|Easy|1791514800000
 917-reverse-only-letters|Easy|1791514800000
 2333-minimum-sum-of-squared-difference|Medium|1791601200000
+4070-minimum-rotations-to-dial-a-number-i|Easy|1791601200000
