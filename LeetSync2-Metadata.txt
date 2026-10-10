@@ -190,3 +190,4 @@
 4006-count-valid-prefixes|Easy|1791601200000
 4000-largest-integer-with-given-digit-sum|Easy|1791601200000
 3996-even-number-of-knight-moves|Easy|1791601200000
+3992-rearrange-string-to-avoid-character-pair|Easy|1791601200000
