@@ -186,3 +186,4 @@
 4043-count-rotations-with-exactly-k-equal-adjacent-pairs|Easy|1791601200000
 4038-count-integers-appearing-in-a-single-block|Easy|1791601200000
 4020-elevator-requests-i|Easy|1791601200000
+4010-maximize-pair-strength-using-gcd|Easy|1791601200000
