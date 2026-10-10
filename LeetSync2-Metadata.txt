@@ -195,3 +195,4 @@
 3982-sum-of-integers-with-maximum-digit-range|Easy|1791601200000
 3978-unique-middle-element|Easy|1791601200000
 3963-create-grid-with-exactly-one-path|Easy|1791601200000
+3959-check-good-integer|Easy|1791601200000
