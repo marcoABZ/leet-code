@@ -208,3 +208,4 @@
 3903-smallest-stable-index-i|Easy|1791601200000
 3898-find-the-degree-of-each-vertex|Easy|1791601200000
 3894-traffic-signal-color|Easy|1791601200000
+3884-first-matching-character-from-both-ends|Easy|1791601200000
