@@ -187,3 +187,4 @@
 4038-count-integers-appearing-in-a-single-block|Easy|1791601200000
 4020-elevator-requests-i|Easy|1791601200000
 4010-maximize-pair-strength-using-gcd|Easy|1791601200000
+4006-count-valid-prefixes|Easy|1791601200000
