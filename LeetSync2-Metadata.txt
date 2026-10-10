@@ -178,3 +178,4 @@
 929-unique-email-addresses|Easy|1791514800000
 922-sort-array-by-parity-ii|Easy|1791514800000
 917-reverse-only-letters|Easy|1791514800000
+2333-minimum-sum-of-squared-difference|Medium|1791601200000
