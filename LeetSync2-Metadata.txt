@@ -174,3 +174,4 @@
 944-delete-columns-to-make-sorted|Easy|1791514800000
 942-di-string-match|Easy|1791514800000
 941-valid-mountain-array|Easy|1791514800000
+938-range-sum-of-bst|Easy|1791514800000
