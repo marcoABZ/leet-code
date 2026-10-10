@@ -182,3 +182,4 @@
 4070-minimum-rotations-to-dial-a-number-i|Easy|1791601200000
 4065-rearrange-array-by-removing-distinct-values|Easy|1791601200000
 4061-minimum-queen-moves-to-reach-target|Easy|1791601200000
+4048-count-values-with-equally-spaced-occurrences-i|Easy|1791601200000
