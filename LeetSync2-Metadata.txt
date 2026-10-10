@@ -210,3 +210,4 @@
 3894-traffic-signal-color|Easy|1791601200000
 3884-first-matching-character-from-both-ends|Easy|1791601200000
 3880-minimum-absolute-difference-between-two-values|Easy|1791601200000
+3875-construct-uniform-parity-array-i|Easy|1791601200000
