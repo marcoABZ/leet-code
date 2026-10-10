@@ -185,3 +185,4 @@
 4048-count-values-with-equally-spaced-occurrences-i|Easy|1791601200000
 4043-count-rotations-with-exactly-k-equal-adjacent-pairs|Easy|1791601200000
 4038-count-integers-appearing-in-a-single-block|Easy|1791601200000
+4020-elevator-requests-i|Easy|1791601200000
