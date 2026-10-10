@@ -176,3 +176,4 @@
 941-valid-mountain-array|Easy|1791514800000
 938-range-sum-of-bst|Easy|1791514800000
 929-unique-email-addresses|Easy|1791514800000
+922-sort-array-by-parity-ii|Easy|1791514800000
