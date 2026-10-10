@@ -193,3 +193,4 @@
 3992-rearrange-string-to-avoid-character-pair|Easy|1791601200000
 3986-number-of-elapsed-seconds-between-two-times|Easy|1791601200000
 3982-sum-of-integers-with-maximum-digit-range|Easy|1791601200000
+3978-unique-middle-element|Easy|1791601200000
