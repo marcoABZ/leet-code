@@ -172,3 +172,4 @@
 961-n-repeated-element-in-size-2n-array|Easy|1791514800000
 953-verifying-an-alien-dictionary|Easy|1791514800000
 944-delete-columns-to-make-sorted|Easy|1791514800000
+942-di-string-match|Easy|1791514800000
