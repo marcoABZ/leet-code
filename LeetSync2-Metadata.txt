@@ -224,3 +224,4 @@
 3813-vowel-consonant-score|Easy|1791687600000
 3803-count-residue-prefixes|Easy|1791687600000
 3794-reverse-string-prefix|Easy|1791687600000
+3783-mirror-distance-of-an-integer|Easy|1791687600000
