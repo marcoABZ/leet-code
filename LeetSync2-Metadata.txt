@@ -247,3 +247,4 @@
 3668-restore-finishing-order|Easy|1791687600000
 3000-maximum-area-of-longest-diagonal-rectangle|Easy|1791687600000
 3005-count-elements-with-maximum-frequency|Easy|1791687600000
+3010-divide-an-array-into-subarrays-with-minimum-cost-i|Easy|1791687600000
