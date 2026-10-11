@@ -213,3 +213,4 @@
 3875-construct-uniform-parity-array-i|Easy|1791601200000
 3870-count-commas-in-range|Easy|1791601200000
 3866-first-unique-even-element|Easy|1791601200000
+3861-minimum-capacity-box|Easy|1791601200000
