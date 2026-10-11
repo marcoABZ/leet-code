@@ -242,3 +242,4 @@
 3688-bitwise-or-of-even-numbers-in-an-array|Easy|1791687600000
 3684-maximize-sum-of-at-most-k-distinct-elements|Easy|1791687600000
 3683-earliest-time-to-finish-one-task|Easy|1791687600000
+3678-smallest-absent-positive-greater-than-average|Easy|1791687600000
