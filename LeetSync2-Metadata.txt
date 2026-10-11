@@ -212,3 +212,4 @@
 3880-minimum-absolute-difference-between-two-values|Easy|1791601200000
 3875-construct-uniform-parity-array-i|Easy|1791601200000
 3870-count-commas-in-range|Easy|1791601200000
+3866-first-unique-even-element|Easy|1791601200000
