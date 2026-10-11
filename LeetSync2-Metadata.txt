@@ -228,3 +228,4 @@
 3774-absolute-difference-between-maximum-and-minimum-k-elements|Easy|1791687600000
 3769-sort-integers-by-binary-reflection|Easy|1791687600000
 3754-concatenate-non-zero-digits-and-multiply-by-sum-i|Easy|1791687600000
+3750-minimum-number-of-flips-to-reverse-binary-string|Easy|1791687600000
