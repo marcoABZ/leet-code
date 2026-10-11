@@ -240,3 +240,4 @@
 3701-compute-alternating-sum|Easy|1791687600000
 3697-compute-decimal-representation|Easy|1791687600000
 3688-bitwise-or-of-even-numbers-in-an-array|Easy|1791687600000
+3684-maximize-sum-of-at-most-k-distinct-elements|Easy|1791687600000
