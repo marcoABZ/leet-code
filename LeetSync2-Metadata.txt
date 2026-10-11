@@ -219,3 +219,4 @@
 3842-toggle-light-bulbs|Easy|1791687600000
 3838-weighted-word-mapping|Easy|1791687600000
 3833-count-dominant-indices|Easy|1791687600000
+3827-count-monobit-integers|Easy|1791687600000
