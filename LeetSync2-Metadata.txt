@@ -231,3 +231,4 @@
 3750-minimum-number-of-flips-to-reverse-binary-string|Easy|1791687600000
 3745-maximize-expression-of-three-elements|Easy|1791687600000
 3740-minimum-distance-between-three-equal-elements-i|Easy|1791687600000
+3736-minimum-moves-to-equal-array-elements-iii|Easy|1791687600000
