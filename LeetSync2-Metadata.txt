@@ -215,3 +215,4 @@
 3866-first-unique-even-element|Easy|1791601200000
 3861-minimum-capacity-box|Easy|1791601200000
 3856-trim-trailing-vowels|Easy|1791601200000
+2778-sum-of-squares-of-special-elements|Easy|1791687600000
