@@ -217,3 +217,4 @@
 3856-trim-trailing-vowels|Easy|1791601200000
 2778-sum-of-squares-of-special-elements|Easy|1791687600000
 3842-toggle-light-bulbs|Easy|1791687600000
+3838-weighted-word-mapping|Easy|1791687600000
