@@ -226,3 +226,4 @@
 3794-reverse-string-prefix|Easy|1791687600000
 3783-mirror-distance-of-an-integer|Easy|1791687600000
 3774-absolute-difference-between-maximum-and-minimum-k-elements|Easy|1791687600000
+3769-sort-integers-by-binary-reflection|Easy|1791687600000
