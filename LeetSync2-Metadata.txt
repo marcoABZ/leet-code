@@ -218,3 +218,4 @@
 2778-sum-of-squares-of-special-elements|Easy|1791687600000
 3842-toggle-light-bulbs|Easy|1791687600000
 3838-weighted-word-mapping|Easy|1791687600000
+3833-count-dominant-indices|Easy|1791687600000
