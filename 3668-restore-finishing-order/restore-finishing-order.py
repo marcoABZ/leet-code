@@ -5,10 +5,11 @@ class Solution(object):
         :type friends: List[int]
         :rtype: List[int]
         """
-        positions = {
-            n: i for i, n in enumerate(order)
-        }
+        fs = set(friends)
+        result = []
 
-        finishes = sorted([(positions[n], n) for n in friends])
-
-        return [n[1] for n in finishes]
+        for n in order:
+            if n in fs:
+                result.append(n)
+        
+        return result
