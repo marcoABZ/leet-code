@@ -223,3 +223,4 @@
 3823-reverse-letters-then-special-characters-in-a-string|Easy|1791687600000
 3813-vowel-consonant-score|Easy|1791687600000
 3803-count-residue-prefixes|Easy|1791687600000
+3794-reverse-string-prefix|Easy|1791687600000
