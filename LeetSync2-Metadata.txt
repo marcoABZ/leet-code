@@ -234,3 +234,4 @@
 3736-minimum-moves-to-equal-array-elements-iii|Easy|1791687600000
 3731-find-missing-elements|Easy|1791687600000
 3726-remove-zeros-in-decimal-representation|Easy|1791687600000
+3718-smallest-missing-multiple-of-k|Easy|1791687600000
