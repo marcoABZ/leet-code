@@ -244,3 +244,4 @@
 3683-earliest-time-to-finish-one-task|Easy|1791687600000
 3678-smallest-absent-positive-greater-than-average|Easy|1791687600000
 3674-minimum-operations-to-equalize-array|Easy|1791687600000
+3668-restore-finishing-order|Easy|1791687600000
