@@ -245,3 +245,4 @@
 3678-smallest-absent-positive-greater-than-average|Easy|1791687600000
 3674-minimum-operations-to-equalize-array|Easy|1791687600000
 3668-restore-finishing-order|Easy|1791687600000
+3000-maximum-area-of-longest-diagonal-rectangle|Easy|1791687600000
