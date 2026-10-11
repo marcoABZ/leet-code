@@ -237,3 +237,4 @@
 3718-smallest-missing-multiple-of-k|Easy|1791687600000
 3712-sum-of-elements-with-frequency-divisible-by-k|Easy|1791687600000
 3707-equal-score-substrings|Easy|1791687600000
+3701-compute-alternating-sum|Easy|1791687600000
