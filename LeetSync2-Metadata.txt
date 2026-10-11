@@ -220,3 +220,4 @@
 3838-weighted-word-mapping|Easy|1791687600000
 3833-count-dominant-indices|Easy|1791687600000
 3827-count-monobit-integers|Easy|1791687600000
+3823-reverse-letters-then-special-characters-in-a-string|Easy|1791687600000
