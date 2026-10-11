@@ -232,3 +232,4 @@
 3745-maximize-expression-of-three-elements|Easy|1791687600000
 3740-minimum-distance-between-three-equal-elements-i|Easy|1791687600000
 3736-minimum-moves-to-equal-array-elements-iii|Easy|1791687600000
+3731-find-missing-elements|Easy|1791687600000
