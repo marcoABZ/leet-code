@@ -236,3 +236,4 @@
 3726-remove-zeros-in-decimal-representation|Easy|1791687600000
 3718-smallest-missing-multiple-of-k|Easy|1791687600000
 3712-sum-of-elements-with-frequency-divisible-by-k|Easy|1791687600000
+3707-equal-score-substrings|Easy|1791687600000
