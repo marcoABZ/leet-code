@@ -251,3 +251,4 @@
 3014-minimum-number-of-pushes-to-type-word-i|Easy|1791687600000
 3019-number-of-changing-keys|Easy|1791687600000
 3024-type-of-triangle|Easy|1791687600000
+3028-ant-on-the-boundary|Easy|1791687600000
