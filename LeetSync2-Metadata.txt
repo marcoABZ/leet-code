@@ -253,3 +253,4 @@
 3024-type-of-triangle|Easy|1791687600000
 3028-ant-on-the-boundary|Easy|1791687600000
 2053-kth-distinct-string-in-an-array|Easy|1791687600000
+2057-smallest-index-with-equal-value|Easy|1791687600000
