@@ -254,3 +254,4 @@
 3028-ant-on-the-boundary|Easy|1791687600000
 2053-kth-distinct-string-in-an-array|Easy|1791687600000
 2057-smallest-index-with-equal-value|Easy|1791687600000
+57-insert-interval|Medium|1791774000000
