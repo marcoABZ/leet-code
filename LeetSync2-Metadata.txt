@@ -257,3 +257,4 @@
 57-insert-interval|Medium|1791774000000
 59-spiral-matrix-ii|Medium|1791860400000
 63-unique-paths-ii|Medium|1791860400000
+64-minimum-path-sum|Medium|1791860400000
