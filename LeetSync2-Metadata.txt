@@ -265,3 +265,4 @@
 419-battleships-in-a-board|Medium|1791946800000
 423-reconstruct-original-digits-from-english|Medium|1791946800000
 427-construct-quad-tree|Medium|1791946800000
+429-n-ary-tree-level-order-traversal|Medium|1791946800000
