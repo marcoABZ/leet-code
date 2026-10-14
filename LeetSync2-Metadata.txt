@@ -264,3 +264,4 @@
 80-remove-duplicates-from-sorted-array-ii|Medium|1791860400000
 419-battleships-in-a-board|Medium|1791946800000
 423-reconstruct-original-digits-from-english|Medium|1791946800000
+427-construct-quad-tree|Medium|1791946800000
