@@ -268,3 +268,4 @@
 429-n-ary-tree-level-order-traversal|Medium|1791946800000
 430-flatten-a-multilevel-doubly-linked-list|Medium|1791946800000
 442-find-all-duplicates-in-an-array|Medium|1791946800000
+2201-count-artifacts-that-can-be-extracted|Medium|1791946800000
