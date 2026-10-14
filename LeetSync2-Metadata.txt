@@ -270,3 +270,4 @@
 442-find-all-duplicates-in-an-array|Medium|1791946800000
 2201-count-artifacts-that-can-be-extracted|Medium|1791946800000
 2202-maximize-the-topmost-element-after-k-moves|Medium|1791946800000
+2208-minimum-operations-to-halve-array-sum|Medium|1791946800000
