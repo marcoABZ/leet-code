@@ -278,3 +278,4 @@
 3207-maximum-points-after-enemy-battles|Medium|1792033200000
 3211-generate-binary-strings-without-adjacent-zeros|Medium|1792033200000
 3212-count-submatrices-with-equal-frequency-of-x-and-y|Medium|1792033200000
+3217-delete-nodes-from-linked-list-present-in-array|Medium|1792033200000
