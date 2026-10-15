@@ -4,23 +4,18 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        result = set()
-        queue = [["1"] * n, ["0"] + ["1"] * (n-1), ["1"] * (n-1) + ["0"]]
-        if n > 2:
-            queue.append(["0"] + ["1"] * (n-2) + ["0"])
+        result = ["0", "1"]
+        
+        while True:
+            if len(result[0]) == n:
+                break
 
-        while queue:
-            curr = queue[0]
-            queue = queue[1:]
-            result.add("".join(curr))
-
-            for i in range(1, len(curr)-1):
-                if curr[i-1] == "1" and curr[i+1] == "1":
-                    cp = curr[:]
-                    cp[i] = "0"
-                    if "".join(cp) not in result:
-                        queue.insert(0,cp)
-                
+            curr = result.pop(0)
+            if curr[-1] == "0":
+                result.append(curr + "1")
+            else:
+                result.append(curr + "0")
+                result.append(curr + "1")     
 
         return result
 
