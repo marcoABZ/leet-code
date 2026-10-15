@@ -274,3 +274,4 @@
 2211-count-collisions-on-a-road|Medium|1791946800000
 3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii|Medium|1792033200000
 3195-find-the-minimum-area-to-cover-all-ones-i|Medium|1792033200000
+3201-find-the-maximum-length-of-valid-subsequence-i|Medium|1792033200000
