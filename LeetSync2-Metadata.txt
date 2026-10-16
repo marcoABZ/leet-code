@@ -291,3 +291,4 @@
 2446-determine-if-two-events-have-conflict|Easy|1792119600000
 2451-odd-string-difference|Easy|1792119600000
 2455-average-value-of-even-numbers-that-are-divisible-by-three|Easy|1792119600000
+2460-apply-operations-to-an-array|Easy|1792119600000
