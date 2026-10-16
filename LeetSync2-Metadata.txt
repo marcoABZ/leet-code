@@ -290,3 +290,4 @@
 2441-largest-positive-integer-that-exists-with-its-negative|Easy|1792119600000
 2446-determine-if-two-events-have-conflict|Easy|1792119600000
 2451-odd-string-difference|Easy|1792119600000
+2455-average-value-of-even-numbers-that-are-divisible-by-three|Easy|1792119600000
