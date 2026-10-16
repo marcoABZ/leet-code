@@ -299,3 +299,4 @@
 2485-find-the-pivot-integer|Easy|1792119600000
 2490-circular-sentence|Easy|1792119600000
 2496-maximum-value-of-a-string-in-an-array|Easy|1792119600000
+2506-count-pairs-of-similar-strings|Easy|1792119600000
