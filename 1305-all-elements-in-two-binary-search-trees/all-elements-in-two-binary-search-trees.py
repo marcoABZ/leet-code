@@ -1,36 +1,40 @@
-# Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-class Solution(object):
+class Solution:
     def getAllElements(self, root1, root2):
         """
         :type root1: Optional[TreeNode]
         :type root2: Optional[TreeNode]
         :rtype: List[int]
         """
-        def merge(l1, l2):
-            i, j = 0, 0
-            result = []
+        # 1. Turn the traversal into a generator
+        def inorder(node):
+            if node:
+                yield from inorder(node.left)
+                yield node.val
+                yield from inorder(node.right)
 
-            while i < len(l1) or j < len(l2):
-                a = 10**5+1 if i >= len(l1) else l1[i]
-                b = 10**5+1 if j >= len(l2) else l2[j]
-
-                if a < b:
-                    result.append(a)
-                    i += 1
-                else:
-                    result.append(b)
-                    j += 1
+        # 2. Merge two iterators instead of two lists
+        def merge(g1, g2):
+            # Pull the first values, defaulting to None if the tree is empty
+            v1 = next(g1, None)
+            v2 = next(g2, None)
             
-            return result
-        
-        def inorder(root):
-            if not root:
-                return []
-            return inorder(root.left) + [root.val] + inorder(root.right)
+            # While both generators have values, yield the smaller one
+            while v1 is not None and v2 is not None:
+                if v1 < v2:
+                    yield v1
+                    v1 = next(g1, None)
+                else:
+                    yield v2
+                    v2 = next(g2, None)
+            
+            # 3. Flush whatever is left from the non-empty generator
+            if v1 is not None:
+                yield v1
+                yield from g1
+                
+            if v2 is not None:
+                yield v2
+                yield from g2
 
-        return merge(inorder(root1), inorder(root2))
+        # Convert the final merged generator into a list to satisfy the return type
+        return list(merge(inorder(root1), inorder(root2)))
