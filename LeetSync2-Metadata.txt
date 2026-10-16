@@ -294,3 +294,4 @@
 2460-apply-operations-to-an-array|Easy|1792119600000
 2465-number-of-distinct-averages|Easy|1792119600000
 2469-convert-the-temperature|Easy|1792119600000
+2475-number-of-unequal-triplets-in-array|Easy|1792119600000
