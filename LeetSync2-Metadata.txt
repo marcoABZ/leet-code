@@ -285,3 +285,4 @@
 3228-maximum-number-of-operations-to-move-ones-to-the-end|Medium|1792033200000
 1302-deepest-leaves-sum|Medium|1792033200000
 1305-all-elements-in-two-binary-search-trees|Medium|1792033200000
+2432-the-employee-that-worked-on-the-longest-task|Easy|1792119600000
