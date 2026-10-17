@@ -305,3 +305,4 @@
 2600-k-items-with-the-maximum-sum|Easy|1792119600000
 2582-pass-the-pillow|Easy|1792119600000
 2586-count-the-number-of-vowel-strings-in-range|Easy|1792119600000
+2605-form-smallest-number-from-two-digit-arrays|Easy|1792119600000
