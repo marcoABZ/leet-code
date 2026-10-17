@@ -303,3 +303,4 @@
 2515-shortest-distance-to-target-string-in-a-circular-array|Easy|1792119600000
 2595-number-of-even-and-odd-bits|Easy|1792119600000
 2600-k-items-with-the-maximum-sum|Easy|1792119600000
+2582-pass-the-pillow|Easy|1792119600000
