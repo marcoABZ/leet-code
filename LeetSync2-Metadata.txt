@@ -306,3 +306,4 @@
 2582-pass-the-pillow|Easy|1792119600000
 2586-count-the-number-of-vowel-strings-in-range|Easy|1792119600000
 2605-form-smallest-number-from-two-digit-arrays|Easy|1792119600000
+2639-find-the-width-of-columns-of-a-grid|Easy|1792119600000
