@@ -317,3 +317,4 @@
 830-positions-of-large-groups|Easy|1792378800000
 832-flipping-an-image|Easy|1792378800000
 859-buddy-strings|Easy|1792378800000
+860-lemonade-change|Easy|1792378800000
