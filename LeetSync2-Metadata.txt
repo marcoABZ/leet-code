@@ -309,3 +309,4 @@
 2639-find-the-width-of-columns-of-a-grid|Easy|1792119600000
 2643-row-with-maximum-ones|Easy|1792119600000
 796-rotate-string|Easy|1792378800000
+804-unique-morse-code-words|Easy|1792378800000
