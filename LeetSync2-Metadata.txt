@@ -318,3 +318,4 @@
 832-flipping-an-image|Easy|1792378800000
 859-buddy-strings|Easy|1792378800000
 860-lemonade-change|Easy|1792378800000
+867-transpose-matrix|Easy|1792378800000
