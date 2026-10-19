@@ -310,3 +310,4 @@
 2643-row-with-maximum-ones|Easy|1792119600000
 796-rotate-string|Easy|1792378800000
 804-unique-morse-code-words|Easy|1792378800000
+806-number-of-lines-to-write-string|Easy|1792378800000
