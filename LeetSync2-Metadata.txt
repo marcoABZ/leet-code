@@ -333,3 +333,4 @@
 766-toeplitz-matrix|Easy|1792465200000
 771-jewels-and-stones|Easy|1792465200000
 783-minimum-distance-between-bst-nodes|Easy|1792465200000
+3258-count-substrings-that-satisfy-k-constraint-i|Easy|1792465200000
