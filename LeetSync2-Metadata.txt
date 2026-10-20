@@ -335,3 +335,4 @@
 783-minimum-distance-between-bst-nodes|Easy|1792465200000
 3258-count-substrings-that-satisfy-k-constraint-i|Easy|1792465200000
 3264-final-array-state-after-k-multiplication-operations-i|Easy|1792465200000
+3270-find-the-key-of-the-numbers|Easy|1792465200000
