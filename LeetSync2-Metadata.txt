@@ -332,3 +332,4 @@
 748-shortest-completing-word|Easy|1792465200000
 766-toeplitz-matrix|Easy|1792465200000
 771-jewels-and-stones|Easy|1792465200000
+783-minimum-distance-between-bst-nodes|Easy|1792465200000
