@@ -331,3 +331,4 @@
 3090-maximum-length-substring-with-two-occurrences|Easy|1792378800000
 748-shortest-completing-word|Easy|1792465200000
 766-toeplitz-matrix|Easy|1792465200000
+771-jewels-and-stones|Easy|1792465200000
