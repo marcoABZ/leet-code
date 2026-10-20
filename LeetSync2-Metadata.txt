@@ -327,3 +327,4 @@
 3069-distribute-elements-into-two-arrays-i|Easy|1792378800000
 3074-apple-redistribution-into-boxes|Easy|1792378800000
 3079-find-the-sum-of-encrypted-integers|Easy|1792378800000
+3083-existence-of-a-substring-in-a-string-and-its-reverse|Easy|1792378800000
