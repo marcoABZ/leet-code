@@ -325,3 +325,4 @@
 3046-split-the-array|Easy|1792378800000
 3065-minimum-operations-to-exceed-threshold-value-i|Easy|1792378800000
 3069-distribute-elements-into-two-arrays-i|Easy|1792378800000
+3074-apple-redistribution-into-boxes|Easy|1792378800000
