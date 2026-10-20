@@ -323,3 +323,4 @@
 884-uncommon-words-from-two-sentences|Easy|1792378800000
 3038-maximum-number-of-operations-with-the-same-score-i|Easy|1792378800000
 3046-split-the-array|Easy|1792378800000
+3065-minimum-operations-to-exceed-threshold-value-i|Easy|1792378800000
