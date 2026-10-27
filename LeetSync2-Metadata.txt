@@ -340,3 +340,4 @@
 1941-check-if-all-characters-have-equal-number-of-occurrences|Easy|1793070000000
 1945-sum-of-digits-of-string-after-convert|Easy|1793070000000
 1957-delete-characters-to-make-fancy-string|Easy|1793070000000
+1961-check-if-string-is-a-prefix-of-array|Easy|1793070000000
