@@ -343,3 +343,4 @@
 1961-check-if-string-is-a-prefix-of-array|Easy|1793070000000
 1971-find-if-path-exists-in-graph|Easy|1793070000000
 1974-minimum-time-to-type-word-using-special-typewriter|Easy|1793070000000
+1979-find-greatest-common-divisor-of-array|Easy|1793070000000
