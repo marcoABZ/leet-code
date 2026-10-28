@@ -371,3 +371,4 @@
 1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree|Easy|1793156400000
 2124-check-if-all-as-appears-before-all-bs|Easy|1793156400000
 2129-capitalize-the-title|Easy|1793156400000
+2138-divide-a-string-into-groups-of-size-k|Easy|1793156400000
