@@ -373,3 +373,4 @@
 2129-capitalize-the-title|Easy|1793156400000
 2138-divide-a-string-into-groups-of-size-k|Easy|1793156400000
 2144-minimum-cost-of-buying-candies-with-discount|Easy|1793156400000
+2148-count-elements-with-strictly-smaller-and-greater-elements|Easy|1793156400000
