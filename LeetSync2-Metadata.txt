@@ -358,3 +358,4 @@
 2047-number-of-valid-words-in-a-sentence|Easy|1793070000000
 3131-find-the-integer-added-to-array-i|Easy|1793156400000
 3136-valid-word|Easy|1793156400000
+3142-check-if-grid-satisfies-conditions|Easy|1793156400000
