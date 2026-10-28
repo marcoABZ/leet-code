@@ -364,3 +364,4 @@
 3158-find-the-xor-of-numbers-which-appear-twice|Easy|1793156400000
 3162-find-the-number-of-good-pairs-i|Easy|1793156400000
 3168-minimum-number-of-chairs-in-a-waiting-room|Easy|1793156400000
+3178-find-the-child-who-has-the-ball-after-k-seconds|Easy|1793156400000
