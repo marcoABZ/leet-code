@@ -361,3 +361,4 @@
 3142-check-if-grid-satisfies-conditions|Easy|1793156400000
 3146-permutation-difference-between-two-strings|Easy|1793156400000
 3151-special-array-i|Easy|1793156400000
+3158-find-the-xor-of-numbers-which-appear-twice|Easy|1793156400000
