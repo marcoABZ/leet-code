@@ -369,3 +369,4 @@
 3190-find-minimum-operations-to-make-all-elements-divisible-by-three|Easy|1793156400000
 3194-minimum-average-of-smallest-and-largest-elements|Easy|1793156400000
 1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree|Easy|1793156400000
+2124-check-if-all-as-appears-before-all-bs|Easy|1793156400000
