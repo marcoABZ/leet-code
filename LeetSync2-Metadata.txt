@@ -375,3 +375,4 @@
 2144-minimum-cost-of-buying-candies-with-discount|Easy|1793156400000
 2148-count-elements-with-strictly-smaller-and-greater-elements|Easy|1793156400000
 3461-check-if-digits-are-equal-in-string-after-operations-i|Easy|1793156400000
+3467-transform-array-by-parity|Easy|1793156400000
