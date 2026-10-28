@@ -353,3 +353,4 @@
 2016-maximum-difference-between-increasing-elements|Easy|1793070000000
 2022-convert-1d-array-into-2d-array|Easy|1793070000000
 2027-minimum-moves-to-convert-string|Easy|1793070000000
+2032-two-out-of-three|Easy|1793070000000
