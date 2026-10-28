@@ -367,3 +367,4 @@
 3178-find-the-child-who-has-the-ball-after-k-seconds|Easy|1793156400000
 3184-count-pairs-that-form-a-complete-day-i|Easy|1793156400000
 3190-find-minimum-operations-to-make-all-elements-divisible-by-three|Easy|1793156400000
+3194-minimum-average-of-smallest-and-largest-elements|Easy|1793156400000
