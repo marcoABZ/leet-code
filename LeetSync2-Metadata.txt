@@ -355,3 +355,4 @@
 2027-minimum-moves-to-convert-string|Easy|1793070000000
 2032-two-out-of-three|Easy|1793070000000
 2042-check-if-numbers-are-ascending-in-a-sentence|Easy|1793070000000
+2047-number-of-valid-words-in-a-sentence|Easy|1793070000000
