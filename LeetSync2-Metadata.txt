@@ -349,3 +349,4 @@
 1995-count-special-quadruplets|Easy|1793070000000
 2000-reverse-prefix-of-word|Easy|1793070000000
 2006-count-number-of-pairs-with-absolute-difference-k|Easy|1793070000000
+2011-final-value-of-variable-after-performing-operations|Easy|1793070000000
