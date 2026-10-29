@@ -382,3 +382,4 @@
 2001-number-of-pairs-of-interchangeable-rectangles|Medium|1793242800000
 2002-maximum-product-of-the-length-of-two-palindromic-subsequences|Medium|1793242800000
 1405-longest-happy-string|Medium|1793242800000
+1409-queries-on-a-permutation-with-key|Medium|1793242800000
