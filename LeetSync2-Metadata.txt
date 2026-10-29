@@ -384,3 +384,4 @@
 1405-longest-happy-string|Medium|1793242800000
 1409-queries-on-a-permutation-with-key|Medium|1793242800000
 690-employee-importance|Medium|1793242800000
+701-insert-into-a-binary-search-tree|Medium|1793242800000
