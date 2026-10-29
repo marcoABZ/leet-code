@@ -378,3 +378,4 @@
 3467-transform-array-by-parity|Easy|1793156400000
 3471-find-the-largest-almost-missing-integer|Easy|1793156400000
 1993-operations-on-tree|Medium|1793242800000
+1996-the-number-of-weak-characters-in-the-game|Medium|1793242800000
