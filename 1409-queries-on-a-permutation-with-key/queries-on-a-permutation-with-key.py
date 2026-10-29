@@ -6,7 +6,8 @@ class Solution:
         for q in queries:
             for i, v in enumerate(p):
                 if v == q:
-                    p = [q] + p[:i] + p[i+1:]
+                    p.pop(i)
+                    p.insert(0, v)
                     result.append(i)
         
         return result
