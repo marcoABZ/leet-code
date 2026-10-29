@@ -380,3 +380,4 @@
 1993-operations-on-tree|Medium|1793242800000
 1996-the-number-of-weak-characters-in-the-game|Medium|1793242800000
 2001-number-of-pairs-of-interchangeable-rectangles|Medium|1793242800000
+2002-maximum-product-of-the-length-of-two-palindromic-subsequences|Medium|1793242800000
