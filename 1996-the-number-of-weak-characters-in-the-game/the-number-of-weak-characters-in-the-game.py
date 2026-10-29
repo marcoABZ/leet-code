@@ -1,7 +1,6 @@
 class Solution:
     def numberOfWeakCharacters(self, properties: list[list[int]]) -> int:
         properties.sort(reverse=True)
-        print(properties)
         mxDef = -1
         weak = 0
         cAtt, cDef = properties[0]
