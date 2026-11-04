@@ -390,3 +390,4 @@
 2196-create-binary-tree-from-descriptions|Medium|1793761200000
 2207-maximize-number-of-subsequences-in-a-string|Medium|1793761200000
 2212-maximum-points-in-an-archery-competition|Medium|1793761200000
+2216-minimum-deletions-to-make-array-beautiful|Medium|1793761200000
