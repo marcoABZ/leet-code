@@ -389,3 +389,4 @@
 2195-append-k-integers-with-minimal-sum|Medium|1793761200000
 2196-create-binary-tree-from-descriptions|Medium|1793761200000
 2207-maximize-number-of-subsequences-in-a-string|Medium|1793761200000
+2212-maximum-points-in-an-archery-competition|Medium|1793761200000
