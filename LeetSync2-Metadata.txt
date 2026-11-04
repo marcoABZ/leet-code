@@ -388,3 +388,4 @@
 4093-maximize-sum-after-at-most-k-digit-rearrangements|Medium|1793674800000
 2195-append-k-integers-with-minimal-sum|Medium|1793761200000
 2196-create-binary-tree-from-descriptions|Medium|1793761200000
+2207-maximize-number-of-subsequences-in-a-string|Medium|1793761200000
