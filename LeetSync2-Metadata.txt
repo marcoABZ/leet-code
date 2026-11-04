@@ -387,3 +387,4 @@
 701-insert-into-a-binary-search-tree|Medium|1793242800000
 4093-maximize-sum-after-at-most-k-digit-rearrangements|Medium|1793674800000
 2195-append-k-integers-with-minimal-sum|Medium|1793761200000
+2196-create-binary-tree-from-descriptions|Medium|1793761200000
