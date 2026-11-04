@@ -392,3 +392,4 @@
 2212-maximum-points-in-an-archery-competition|Medium|1793761200000
 2216-minimum-deletions-to-make-array-beautiful|Medium|1793761200000
 2217-find-palindrome-with-fixed-length|Medium|1793761200000
+2221-find-triangular-sum-of-an-array|Medium|1793761200000
