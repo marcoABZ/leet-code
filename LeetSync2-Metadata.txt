@@ -402,3 +402,4 @@
 3160-find-the-number-of-distinct-colors-among-the-balls|Medium|1793934000000
 3163-string-compression-iii|Medium|1793934000000
 3169-count-days-without-meetings|Medium|1793934000000
+3170-lexicographically-minimum-string-after-removing-stars|Medium|1793934000000
