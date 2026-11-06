@@ -398,3 +398,4 @@
 684-redundant-connection|Medium|1793934000000
 687-longest-univalue-path|Medium|1793934000000
 3153-sum-of-digit-differences-of-all-pairs|Medium|1793934000000
+3159-find-occurrences-of-an-element-in-an-array|Medium|1793934000000
