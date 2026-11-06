@@ -397,3 +397,4 @@
 2295-replace-elements-in-an-array|Medium|1793847600000
 684-redundant-connection|Medium|1793934000000
 687-longest-univalue-path|Medium|1793934000000
+3153-sum-of-digit-differences-of-all-pairs|Medium|1793934000000
