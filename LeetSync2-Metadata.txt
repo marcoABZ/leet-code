@@ -396,3 +396,4 @@
 2294-partition-array-such-that-maximum-difference-is-k|Medium|1793847600000
 2295-replace-elements-in-an-array|Medium|1793847600000
 684-redundant-connection|Medium|1793934000000
+687-longest-univalue-path|Medium|1793934000000
