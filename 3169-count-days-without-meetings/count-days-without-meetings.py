@@ -14,7 +14,6 @@ class Solution:
         
         merged.append([meetings[i][0], limit])
 
-        print(merged)
         j = 1
         result = merged[0][0] - 1
         while j < len(merged):
