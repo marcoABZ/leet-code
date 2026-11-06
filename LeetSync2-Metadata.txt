@@ -400,3 +400,4 @@
 3153-sum-of-digit-differences-of-all-pairs|Medium|1793934000000
 3159-find-occurrences-of-an-element-in-an-array|Medium|1793934000000
 3160-find-the-number-of-distinct-colors-among-the-balls|Medium|1793934000000
+3163-string-compression-iii|Medium|1793934000000
