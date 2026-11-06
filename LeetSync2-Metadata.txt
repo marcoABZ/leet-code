@@ -403,3 +403,4 @@
 3163-string-compression-iii|Medium|1793934000000
 3169-count-days-without-meetings|Medium|1793934000000
 3170-lexicographically-minimum-string-after-removing-stars|Medium|1793934000000
+3175-find-the-first-player-to-win-k-games-in-a-row|Medium|1793934000000
