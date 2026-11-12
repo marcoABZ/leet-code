@@ -410,3 +410,4 @@
 1390-four-divisors|Medium|1794452400000
 2381-shifting-letters-ii|Medium|1794452400000
 2384-largest-palindromic-number|Medium|1794452400000
+2385-amount-of-time-for-binary-tree-to-be-infected|Medium|1794452400000
